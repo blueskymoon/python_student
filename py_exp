@@ -1,0 +1,11 @@
+python 学习经验
+1.循环的语法结构
+for 变量 in range(循环次数)
+2.调用函数
+import 函数名
+3.输出
+print 变量
+输入
+input 变量
+4.行结束符 :
+
